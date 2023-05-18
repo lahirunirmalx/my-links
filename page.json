@@ -1,32 +1,32 @@
 {
-  "name": "Fatih Yavuz",
-  "description": "Backend Engineer @Spotify",
-  "image_url": "https://raw.githubusercontent.com/fatih-yavuz/my-links/main/profile-picture.jpeg",
+  "name": "Lahiru Nirmala",
+  "description": "Dad - (kick) ass | tech lead , who loves coding. ",
+  "image_url": "https://raw.githubusercontent.com/lahirunirmalx/mylink-tree/main/public/avatar.jpg",
   "links": [
     {
       "title": "Instagram",
-      "url": "https://bit.ly/3LaBWc2",
+      "url": "https://instagram.com/lahirunirmala",
       "icon": "instagram"
     },
     {
       "title": "Twitter",
-      "url": "http://bit.ly/3CCjbJk",
+      "url": "https://twitter.com/lahirunirmala",
       "icon": "twitter"
     },
     {
       "title": "LinkedIn",
-      "url": "http://bit.ly/3GfuFF1",
+      "url": "https://www.linkedin.com/in/lahirunirmala",
       "icon": "linkedin"
     },
     {
       "title": "GitHub",
-      "url": "http://bit.ly/3GfuTvR",
+      "url": "https://github.com/lahirunirmalx",
       "icon": "github"
     },
     {
-      "title": "GitLab",
-      "url": "http://bit.ly/3Cejhqr",
-      "icon": "gitlab"
+      "title": "Reddit",
+      "url": "https://www.reddit.com/user/lahirunirmala",
+      "icon": "reddit"
     }
   ]
 }
